@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this version of the software or dataset, please cite it as below."
+title: "Human neural dynamics of real-world and imagined navigation (NWB)"
+type: dataset
+authors:
+  - family-names: "Seeber"
+    given-names: "Martin"
+    email: "martin.seeber@duke.edu"
+  - family-names: "Stangl"
+    given-names: "Matthias"
+  - family-names: "Vallejo"
+    given-names: "Mauricio"
+  - family-names: "Topalovic"
+    given-names: "Uros"
+  - family-names: "Hiller"
+    given-names: "Sonja"
+  - family-names: "Halpern"
+    given-names: "Casey H."
+  - family-names: "Langevin"
+    given-names: "Jean-Philippe"
+  - family-names: "Rao"
+    given-names: "Vikram R."
+  - family-names: "Fried"
+    given-names: "Itzhak"
+  - family-names: "Eliashiv"
+    given-names: "Dawn"
+  - family-names: "Suthana"
+    given-names: "Nanthia"
+    email: "nanthia.suthana@duke.edu"
+identifiers:
+  - type: other
+    value: "data-curator-1"
+    description: "Data curator: Neha Thomas"
+  - type: other
+    value: "data-curator-2"
+    description: "Data curator: Cody Baker"
+keywords:
+  - neuroscience
+  - electrophysiology
+  - intracranial-recordings
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-04-29"

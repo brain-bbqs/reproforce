@@ -1,0 +1,26 @@
+{
+  "Name": "Human neural dynamics of real-world and imagined navigation",
+  "Description": "Contains data and software for reproducing figures from the associated manuscript.",
+  "BIDSVersion": "1.10.1",
+  "DatasetType": "study",
+  "License": "CC-BY-4.0",
+  "ReferencesAndLinks": ["https://www.biorxiv.org/content/10.1101/2024.05.23.595237v1"],
+  "GeneratedBy": [
+    {
+      "Name": "reproforce/seeber-suthana-2024",
+      "Description": "The primary code for reproducing the figures of the associated manuscript.",
+      "CodeURL": "https://github.com/brain-bbqs/reproforce/seeber-suthana-2024/code"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://doi.org/10.5281/zenodo.13743052"
+    }
+  ],
+  "Funding": [
+      "NIH U01NS117838",
+      "NIH K99NS126715",
+      "McKnight Foundation",
+      "Keck Junior Faculty Award"
+  ]
+}
